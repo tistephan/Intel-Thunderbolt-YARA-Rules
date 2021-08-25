@@ -1,1 +1,1 @@
-# Intel-Thunderbolt-YARA-Rules
+YARA Rules for Intel Thunderbolt Memory Dumps
